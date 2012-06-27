@@ -1,0 +1,28 @@
+#container
+{	
+    border: 4px solid #999999;
+    height: 380px;
+    left: 487px;
+    position: relative;
+    top: 158px;
+    width: 360px;
+	padding-top: 5p;
+	}
+#mainImage
+{
+position:absolute;}
+#ImageContainer
+{	position: relative;
+}
+#ImageList {
+ border-top : 2px solid #999999;
+    height: 49px;
+    padding-top: 7px;
+	 padding-left: 1px;
+   position: absolute;
+    top: 315px;
+	left: 5px;
+}
+.ImageList
+{	
+}
